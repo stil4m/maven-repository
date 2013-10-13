@@ -9,7 +9,7 @@
 |IMDb API                      | nl.stil4m | imdb-api                      | 1.0.1          | [Repository](https://github.com/stil4m/imdb-api) |
 |Dropwizard Resource Reloading | nl.stil4m | dropwizard-resource-reloading | 1.0.0          | n/a |
 |mo-mi: Mongo Migrations | nl.stil4m | mo-mi | 0.1.0          | [Repository](https://github.com/stil4m/mo-mi)  |
-|Transmission RPC Java   | nl.stil4m | transmission-rpc-java  | 0.1.0          | [Repository](https://github.com/stil4m/transmission-rpc-java)  |
+|Transmission RPC Java   | nl.stil4m | transmission-rpc-java  | 0.3.0          | [Repository](https://github.com/stil4m/transmission-rpc-java)  |
 
 ## Repository management
 
