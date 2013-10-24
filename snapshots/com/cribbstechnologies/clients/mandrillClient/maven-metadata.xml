@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cribbstechnologies.clients</groupId>
+  <artifactId>mandrillClient</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131024185011</lastUpdated>
+  </versioning>
+</metadata>
