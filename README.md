@@ -12,6 +12,7 @@
 |Transmission RPC Java   | nl.stil4m | transmission-rpc-java  | 0.5.0          | [Repository](https://github.com/stil4m/transmission-rpc-java)  |
 |iDeal API   | nl.stil4m | ideal-api  | 1.0.2          | [Repository](https://github.com/stil4m/ideal-api)  |
 | Mandrill Client   | com.cribbstechnologies.clients | mandrillClient  | 0.0.3-SNAPSHOT          | [Repository](https://github.com/cribbstechnologies/Java-Mandrill-Wrapper)  |
+| TVRage Wrapper   | nl.stil4m | tvrage-wrapper  | 0.1.0          | [Repository](https://github.com/stil4m/tvrage-wrapper)  |
 
 ## Repository management
 
