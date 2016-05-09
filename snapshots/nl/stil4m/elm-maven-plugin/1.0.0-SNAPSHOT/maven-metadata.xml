@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>nl.stil4m</groupId>
   <artifactId>elm-maven-plugin</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20160509.184653</timestamp>
+      <timestamp>20160509.185226</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20160509184653</lastUpdated>
+    <lastUpdated>20160509185226</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20160509.184653-1</value>
-        <updated>20160509184653</updated>
+        <value>1.0.0-20160509.185226-1</value>
+        <updated>20160509185226</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20160509.184653-1</value>
-        <updated>20160509184653</updated>
+        <value>1.0.0-20160509.185226-1</value>
+        <updated>20160509185226</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -3,10 +3,10 @@
   <groupId>nl.stil4m</groupId>
   <artifactId>elm-maven-plugin</artifactId>
   <versioning>
-    <latest>1.0-SNAPSHOT</latest>
+    <latest>1.0.0-SNAPSHOT</latest>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160509184653</lastUpdated>
+    <lastUpdated>20160509185226</lastUpdated>
   </versioning>
 </metadata>
