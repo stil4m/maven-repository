@@ -14,6 +14,7 @@
 | Mollie API   | nl.stil4m | mollie-api  | 1.4.0         | [Repository](https://github.com/stil4m/mollie-api)  |
 | Mandrill Client   | com.cribbstechnologies.clients | mandrillClient  | 0.0.3-SNAPSHOT          | [Repository](https://github.com/cribbstechnologies/Java-Mandrill-Wrapper)  |
 | TVRage Wrapper   | nl.stil4m | tvrage-wrapper  | 0.1.0          | [Repository](https://github.com/stil4m/tvrage-wrapper)  |
+| Elm Maven Plugin   | nl.stil4m | elm-maven-plugin  | 1.0.0          | [Repository](https://github.com/stil4m/elm-maven-plugin)  |
 
 ## Repository management
 
