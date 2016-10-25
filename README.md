@@ -11,7 +11,7 @@
 |mo-mi: Mongo Migrations | nl.stil4m | mo-mi | 0.1.0          | [Repository](https://github.com/stil4m/mo-mi)  |
 |Transmission RPC Java   | nl.stil4m | transmission-rpc-java  | 0.5.0          | [Repository](https://github.com/stil4m/transmission-rpc-java)  |
 |iDeal API (Deprecated)  | nl.stil4m | ideal-api  | 1.0.2          | [Repository](https://github.com/stil4m/ideal-api)  |
-| Mollie API   | nl.stil4m | mollie-api  | 2.1.0         | [Repository](https://github.com/stil4m/mollie-api)  |
+| Mollie API   | nl.stil4m | mollie-api  | 2.1.0 / 2.2.0-SNAPSHOT        | [Repository](https://github.com/stil4m/mollie-api)  |
 | Mandrill Client   | com.cribbstechnologies.clients | mandrillClient  | 0.0.3-SNAPSHOT          | [Repository](https://github.com/cribbstechnologies/Java-Mandrill-Wrapper)  |
 | TVRage Wrapper   | nl.stil4m | tvrage-wrapper  | 0.1.0          | [Repository](https://github.com/stil4m/tvrage-wrapper)  |
 | Elm Maven Plugin   | nl.stil4m | elm-maven-plugin  | 1.0.5          | [Repository](https://github.com/stil4m/elm-maven-plugin)  |
