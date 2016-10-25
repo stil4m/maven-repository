@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nl.stil4m</groupId>
+  <artifactId>mollie-api</artifactId>
+  <versioning>
+    <versions>
+      <version>2.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161025192104</lastUpdated>
+  </versioning>
+</metadata>
